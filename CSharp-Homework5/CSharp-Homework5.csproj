@@ -5,6 +5,7 @@
     <TargetFramework>net5.0-windows</TargetFramework>
     <RootNamespace>CSharp_Homework5</RootNamespace>
     <UseWPF>true</UseWPF>
+    <NoWin32Manifest>true</NoWin32Manifest>
   </PropertyGroup>
 
 </Project>
